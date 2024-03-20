@@ -5,5 +5,7 @@ from . import views
 
 urlpatterns = [
     path('getArray', views.getArr),
-    path('postArray', views.postArr)
+    path('postArray', views.postArr),
+    path('bubbleSort', views.bubbleSort),
+    path('insertionSort', views.insertionSort)
 ]

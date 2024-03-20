@@ -60,5 +60,5 @@ $ python manage.py migrate
 # go to directori with back-end
 $ cd ./cicback
 # run server
-$ python manage..py runserver
+$ python manage.py runserver
 ```
